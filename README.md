@@ -1,6 +1,7 @@
 # Poker Bot AI
 
-[![Poker Bot AI Introduction](https://img.youtube.com/vi/ET6Y6NjHvGM/0.jpg)](https://www.youtube.com/watch?v=ET6Y6NjHvGM)
+[![Poker Bot AI Promo](https://img.youtube.com/vi/EjhSfCLDjA8/0.jpg)](https://www.youtube.com/watch?v=EjhSfCLDjA8)
+[![Tech Presentation 2024](https://img.youtube.com/vi/aHkTWV5YDQg/0.jpg)](https://www.youtube.com/watch?v=aHkTWV5YDQg)
 
 ## About Poker Bot AI
 
